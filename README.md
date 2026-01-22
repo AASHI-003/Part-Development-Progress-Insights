@@ -16,3 +16,4 @@ In-scope data: Part master, program/project, development phases (e.g., Design, P
 Out of scope (initial phase): Costing, procurement lead times, tooling lifecycle, quality non-conformance details (can be phased in later).
 
 
+<img width="1067" height="778" alt="image" src="https://github.com/user-attachments/assets/e383d412-34e2-4ec0-85d0-5c23964e1e82" />
